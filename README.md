@@ -49,7 +49,7 @@ Returns
 - [ ] Following Presentation/Business/Data Layer patterns
 - [ ] Use EF Core and Migrations
 - [x] Git standards
-- [ ] C# Documentation
+- [x] C# Documentation
 
 ### Remarks:
 No final exam, no passing grade.
