@@ -46,10 +46,10 @@ Returns
 5. Update Order
 
 ### MUST: 
-[ ] Following Presentation/Business/Data Layer patterns
-[ ] Use EF Core and Migrations
-[x] Git standards
-[ ] C# Documentation
+- [ ] Following Presentation/Business/Data Layer patterns
+- [ ] Use EF Core and Migrations
+- [x] Git standards
+- [ ] C# Documentation
 
 ### Remarks:
 No final exam, no passing grade.
