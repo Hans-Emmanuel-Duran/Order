@@ -17,6 +17,6 @@
 		/// <summary>
 		/// Reference to the principal entity
 		/// </summary>
-		public Order Order { get; set; }
+		public Order? Order { get; set; }
 	}
 }
